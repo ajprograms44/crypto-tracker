@@ -1,0 +1,40 @@
+.coinContainer {
+  background-image: linear-gradient(to bottom right,blue, purple);
+  border: 3px solid;
+  border-radius: 5px;
+  display: inline-block;
+  font-family: myFirstFont;
+  margin: 1%;
+}
+
+.coinIcon {
+  padding: 5%
+}
+
+
+.coinName {
+
+}
+
+.coinSymbol {
+
+}
+
+
+
+
+.coinStats {
+  padding: 5%
+}
+
+.coinMkt {
+
+}
+
+.coinPrice {
+  
+}
+
+.coinPercent {
+
+}
